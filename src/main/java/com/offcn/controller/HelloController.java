@@ -76,4 +76,7 @@ public class HelloController {
 
         return list;
     }
+    public void demo(){
+        System.out.println("hahahahahahsa");
+    }
 }
